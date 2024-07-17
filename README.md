@@ -29,8 +29,8 @@ Techno
 - Statistics about
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micka90&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Micka90's GitHub Stats" />   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micka90&theme=react&hide_border=true" alt="Micka90's GitHub Stats" />
-                             <img src="https://github-readme-stats.vercel.app/api?username=Micka90&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Micka90's GitHub Stats" />
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Micka90&show_icons=true&theme=radical)
+
 </div>
 
 
