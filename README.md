@@ -28,10 +28,9 @@ Techno
 
 - Statistics about
 
-<div align="center">
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Micka90&show_icons=true&theme=radical)
 
-</div>
+[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Micka90&show_icons=true&theme=radical)
+
 
 
 - 📫 How to reach me:
